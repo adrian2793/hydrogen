@@ -21,5 +21,5 @@ twitch.onAuthorized(function(auth) {
 });
 
 function parse(id, object) {
-  document.getElementById("demo").innerHTML = obj.object;
+  document.getElementById(id).innerHTML = obj.object;
 }
