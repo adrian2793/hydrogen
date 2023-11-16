@@ -21,7 +21,3 @@ twitch.onAuthorized(function(auth) {
   tuid = auth.userId;
   setAuth(token);
 });
-
-function getJSON(id, object) {
-  document.getElementById(id).innerHTML = obj.panel_default_heading;
-}
