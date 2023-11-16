@@ -1,3 +1,5 @@
+const obj = JSON.parse('{"panel_default_heading":"Coming Soon", "age":30, "city":"New York"}');
+
 var token = "";
 var tuid = "";
 
