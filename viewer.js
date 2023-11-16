@@ -23,5 +23,5 @@ twitch.onAuthorized(function(auth) {
 });
 
 function parse(id, object) {
-  document.getElementById(id).innerHTML = obj.object;
+  document.getElementById(id).innerHTML = obj.panel_default_heading;
 }
