@@ -10,6 +10,10 @@ h1, h2, h3, h4, h5, h6 {
     font-weight: 200;
 }
 
+.align {
+    text-align: center;
+}
+
 #color {
     border-radius: 50px;
     transition: background-color 0.5s ease;
