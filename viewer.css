@@ -24,3 +24,7 @@ body {
     position: relative;
     left: 50%;
 }
+
+#app {
+    background-color: #262626;
+}
