@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <script src="//console.re/connector.js" data-channel="space" id="consolerescript"></script>
         <link rel="stylesheet" href="viewer.css" type="text/css">
         <script>
             function encrypt(id, object) {
@@ -14,7 +13,7 @@
         <script src="https://extension-files.twitch.tv/helper/v1/twitch-ext.min.js"></script>
         <script src="https://localhost.rig.twitch.tv:3000/twitch-ext.js"></script>
         <script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
-        <h2 id="config_heading"><script>encrypt("config_heading", "config_default_heading");</script>503 Service Unavailable</h2>
+        <h2 id="config_heading"><script>localStorage.getItem("lastname");</script></h2>
         <p id="config_content"><script>encrypt("config_content", "config_default_content");</script>This component can't execute JavaScript.</p>
         <div id="list"></div>
         <script src="viewer.js"></script>
