@@ -20,3 +20,7 @@ body {
     position: relative;
     left: 50%;
 }
+
+.config-file {
+    background-color: #262626;
+}
