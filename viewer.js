@@ -22,6 +22,6 @@ twitch.onAuthorized(function(auth) {
   setAuth(token);
 });
 
-function db_parse(id, object) {
+function getJSON(id, object) {
   document.getElementById(id).innerHTML = obj.panel_default_heading;
 }
