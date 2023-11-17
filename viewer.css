@@ -83,12 +83,10 @@ input[type=text] {
     border-bottom: 1px solid white;
     outline: none;
     -webkit-appearance: none;
-    -webkit-box-sizing: border-box;
     font-size: 15px;
     overflow: hidden;
     background: transparent;
     color: white;
     padding: 10px 10px 10px 10px;
     border-radius: 20px;
-    border: 0.5px blue;
 }
