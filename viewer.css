@@ -78,6 +78,7 @@ div {
 }
 
 input {
-    overflow: none;
+    overflow: hidden;
     border-radius: 20px;
+    border: 0.5px blue;
 }
