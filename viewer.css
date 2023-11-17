@@ -80,6 +80,7 @@ div {
 input[type=text] {
     -webkit-appearance: none
     overflow: hidden;
+    padding: 10px 10px 10px 10px;
     border-radius: 20px;
     border: 0.5px blue;
 }
