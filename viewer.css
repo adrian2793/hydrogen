@@ -108,3 +108,7 @@ input[type=text]:focus {
 .live_config_label {
     margin-right: 20px;
 }
+
+.live_config {
+    font-size: 12px;
+}
