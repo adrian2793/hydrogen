@@ -78,7 +78,6 @@ div {
 }
 
 input[type=text] {
-
     -webkit-font-smoothing: antialiased;
     border: 1px solid white;
     outline: none;
