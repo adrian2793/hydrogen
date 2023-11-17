@@ -15,13 +15,12 @@
         <script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
         <h2 class="align-center">Live Settings</h2>
         <div class="toggle">
-            <input type="checkbox" onclick="window.Twitch.ext.actions.minimize()" />
+            <input type="checkbox" onclick="window.Twitch.ext.actions.minimize();" />
             <label>&nbsp;&nbsp;Hide the video overlay</label>
         </div>
         <br>
         <div>
-            <label>Set a Stream Title&nbsp;&nbsp;</label>
-            <input type="text">
+            <input type="text" placeholder="Stream Title">
         </div>
         <div id="list"></div>
         <script src="viewer.js"></script>
