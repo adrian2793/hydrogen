@@ -89,6 +89,12 @@ input[type=text] {
     padding: 10px;
     border-radius: 12px;
     transition: all .8s ease
+    -moz-transform: translateX(100%);
+    -webkit-transform: translateX(100%);
+    transform: translateX(100%);
+    -moz-animation: scroll 15s linear infinite;
+    -webkit-animation: scroll 15s linear infinite;
+    animation: scroll 15s linear infinite;
 }
 
 input[type=text]:focus {
@@ -112,3 +118,25 @@ input[type=text]:focus {
 .live_config {
     font-size: 20px;
 }
+
+@-moz-keyframes scroll {
+  from { -moz-transform: translateX(100%); }
+  to { -moz-transform: translateX(-100%); }
+}
+
+@-webkit-keyframes scroll {
+  from { -webkit-transform: translateX(100%); }
+  to { -webkit-transform: translateX(-100%); }
+}
+
+@keyframes scroll {
+  from {
+    -moz-transform: translateX(100%);
+    -webkit-transform: translateX(100%);
+    transform: translateX(100%);
+  }
+  to {
+    -moz-transform: translateX(-100%);
+    -webkit-transform: translateX(-100%);
+    transform: translateX(-100%);
+  }
