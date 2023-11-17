@@ -87,14 +87,14 @@ input[type=text] {
     background: transparent;
     color: white;
     padding: 10px;
-    width: 75px;
+    width: 250px;
     border-radius: 12px;
     transition: all .8s ease;
 }
 
 input[type=text]:focus {
     -webkit-font-smoothing: antialiased;
-    transition: all .8s ease
+    transition: all .8s ease;
     border: 1px solid white;
     outline: none;
     -webkit-appearance: none;
