@@ -78,6 +78,9 @@ div {
 }
 
 input[type=text] {
+    -webkit-text-size-adjust: 100%;
+    -webkit-font-smoothing: antialiased;
+    outline: none;
     -webkit-appearance: none;
     -webkit-box-sizing: border-box;
     font-size: 15px;
