@@ -77,7 +77,8 @@ div {
   background: #000;
 }
 
-input {
+input[type=text] {
+    -webkit-appearance: none
     overflow: hidden;
     border-radius: 20px;
     border: 0.5px blue;
