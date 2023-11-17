@@ -83,7 +83,6 @@ input[type=text] {
     border: none;
     outline: none;
     -webkit-appearance: none;
-    font-size: 15px;
     overflow: hidden;
     background: transparent;
     color: white;
