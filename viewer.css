@@ -79,6 +79,7 @@ div {
 
 input[type=text] {
     -webkit-appearance: none;
+    -webkit-box-sizing: border-box;
     font-size: 15px;
     overflow: hidden;
     background: transparent;
