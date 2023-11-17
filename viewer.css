@@ -49,7 +49,7 @@ div {
   display: inline-block;
   background: #000;
   border-radius: 46px;
-  border: 4px solid #FFF;
+  border: 2px solid #FFF;
   box-sizing: border-box;
   transition: 0.2s ease-in;
 }
@@ -69,7 +69,7 @@ div {
 }
 
 .toggle input[type="checkbox"]:checked + label:before {
-  background: #000;
+  background: #FFF;
 }
 
 .toggle input[type="checkbox"]:checked + label:after {
