@@ -90,7 +90,7 @@ input[type=text] {
     border-radius: 12px;
 }
 
-input[type=text]:active {
+input[type=text]:focus {
     -webkit-font-smoothing: antialiased;
     border: 1px solid white;
     outline: none;
