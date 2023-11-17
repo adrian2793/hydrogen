@@ -88,16 +88,16 @@ input[type=text] {
     color: white;
     padding: 10px;
     border-radius: 12px;
-    transition: all .2s ease
+    transition: all .8s ease
 }
 
 input[type=text]:focus {
-    transition: all .2s ease
+    transition: all .8s ease
     -webkit-font-smoothing: antialiased;
     border: 1px solid white;
     outline: none;
     -webkit-appearance: none;
-    font-size: 18px;
+    font-size: 25px;
     overflow: hidden;
     background: transparent;
     color: white;
