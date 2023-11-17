@@ -104,3 +104,7 @@ input[type=text]:focus {
     padding: 10px;
     border-radius: 12px;
 }
+
+.live_config_label {
+    color: #BDBDBD;
+}
