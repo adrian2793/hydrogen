@@ -42,9 +42,9 @@ div {
 }
 
 .toggle label:before {
-  content: '';
-  width: 64px;
-  height: 32px;
+  content: ' ';
+  width: 84px;
+  height: 42px;
   position: relative;
   display: inline-block;
   background: #000;
