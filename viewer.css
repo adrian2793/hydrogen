@@ -88,7 +88,7 @@ input[type=text] {
     background: transparent;
     color: white;
     padding: 10px;
-    width: 250px;
+    width: 500px;
     border-radius: 12px;
     transition: all .8s ease;
 }
@@ -108,7 +108,7 @@ input[type=text]:focus {
 }
 
 .live_config_label {
-    margin-right: 50px;
+    color: orange;
 }
 
 .live_config {
