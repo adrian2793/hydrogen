@@ -88,9 +88,11 @@ input[type=text] {
     color: white;
     padding: 10px;
     border-radius: 12px;
+    transition: all .2s ease
 }
 
 input[type=text]:focus {
+    transition: all .2s ease
     -webkit-font-smoothing: antialiased;
     border: 1px solid white;
     outline: none;
