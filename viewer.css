@@ -78,10 +78,9 @@ div {
 }
 
 input[type=text] {
-    -webkit-text-size-adjust: 100%;
+
     -webkit-font-smoothing: antialiased;
-    border-bottom: 1px solid white;
-    border-top: 1px solid blue;
+    border: 1px solid white;
     outline: none;
     -webkit-appearance: none;
     font-size: 15px;
@@ -89,5 +88,5 @@ input[type=text] {
     background: transparent;
     color: white;
     padding: 10px 10px 10px 10px;
-    border-radius: 20px;
+    border-radius: 12px;
 }
