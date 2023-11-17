@@ -78,8 +78,10 @@ div {
 }
 
 input[type=text] {
-    -webkit-appearance: none
+    -webkit-appearance: none;
     overflow: hidden;
+    background: transparent;
+    color: white;
     padding: 10px 10px 10px 10px;
     border-radius: 20px;
     border: 0.5px blue;
