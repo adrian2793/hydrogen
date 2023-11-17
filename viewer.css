@@ -76,3 +76,8 @@ div {
   left: 58px;
   background: #000;
 }
+
+input {
+    overflow: none;
+    border-radius: 20px;
+}
