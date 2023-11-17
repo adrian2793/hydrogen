@@ -63,13 +63,13 @@ div {
   left: 10px;
   top: 12px;
   z-index: 2;
-  background: #000;
+  background: #FFF;
   box-sizing: border-box;
   transition: 0.2s ease-in;
 }
 
 .toggle input[type="checkbox"]:checked + label:before {
-  background: #000;
+  background: #FFF;
 }
 
 .toggle input[type="checkbox"]:checked + label:after {
