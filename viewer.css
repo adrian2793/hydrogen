@@ -69,7 +69,7 @@ div {
 }
 
 .toggle input[type="checkbox"]:checked + label:before {
-  background: #FFF;
+  background: #000;
 }
 
 .toggle input[type="checkbox"]:checked + label:after {
