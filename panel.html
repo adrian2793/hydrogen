@@ -8,7 +8,7 @@
         <script src="https://hydrogen-extension.netlify.app/viewer.js"></script>
         <script>
             function encrypt(id, object) {
-                const json = fs.readFileSync("viewer.json", "utf8");
+                const json = fs.readFileSync("./json/viewer.json", "utf8");
                 const obj = JSON.parse(json);
                 document.getElementById(id).value = obj[0].object;
             }
