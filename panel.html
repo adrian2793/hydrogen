@@ -9,7 +9,7 @@
             function encrypt(id, object) {
                 const json = '{"result":true, "count":42}';
                 const obj = JSON.parse(json);
-                document.getElementById(id).innerText = obj[0].result;
+                document.getElementById(id).innerText = obj.result;
             }
             encrypt("panel_heading", "kone");
         </script>
