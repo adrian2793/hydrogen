@@ -7,8 +7,7 @@
         <script src="viewer.js"></script>
         <script>
             function encrypt(id, object) {
-                const json = '{"result":true, "count":42}';
-                const obj = JSON.parse(json);
+                const obj = JSON.parse(data);
                 document.getElementById(id).innerText = obj.result;
             }
             encrypt("panel_heading", "kone");
