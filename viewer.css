@@ -112,6 +112,7 @@ input[type=text]:focus {
 }
 
 .live_config_label {
+    padding: 10px;
     color: orange;
 }
 
