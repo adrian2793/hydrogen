@@ -85,7 +85,7 @@ input[type=text] {
     border: none;
     outline: none;
     -webkit-appearance: none;
-    overflow: hidden;
+    overflow: scroll;
     background: transparent;
     color: white;
     padding: 10px;
@@ -102,7 +102,7 @@ input[type=text]:focus {
     outline: none;
     -webkit-appearance: none;
     font-size: 20px;
-    overflow: hidden;
+    overflow: scroll;
     background: transparent;
     color: white;
     padding: 10px;
