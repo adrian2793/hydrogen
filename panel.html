@@ -8,6 +8,7 @@
         <script src="https://hydrogen-extension.netlify.app/viewer.js"></script>
         <script>
             const obj = JSON.parse('{"object":"undefined", "panel_default_heading":"Coming Soon", "panel_default_content":"This panel needs some more details to be active on your channel"}');
+            document.getElementById("panel_heading").value = obj.object;
             function encrypt(id, object) {
                 document.getElementById(id).value = obj.object;
             }
