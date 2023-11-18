@@ -1,7 +1,4 @@
-const data = JSON.parse('{"object":"undefined", "panel_default_heading":"Coming Soon", "panel_default_content":"This panel needs some more details to be active on your channel"}');
-
-var token = auth.token;
-var tuid = "";
+const obj = JSON.parse('{"object":"undefined", "panel_default_heading":"Coming Soon", "panel_default_content":"This panel needs some more details to be active on your channel"}');
 
 var twitch = window.Twitch.ext;
 
@@ -21,3 +18,7 @@ twitch.onAuthorized(function(auth) {
   tuid = auth.userId;
   setAuth(token);
 });
+
+function encrypt(id, object) {
+  document.getElementById(id).innerText = obj.object;
+}
