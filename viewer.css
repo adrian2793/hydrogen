@@ -78,6 +78,7 @@ div {
 }
 
 input[type=text] {
+    text-overflow: ellipsis " [..]";
     overflow-x: scroll;
     margin-left: 50px;
     font-size: 16px;
@@ -95,6 +96,7 @@ input[type=text] {
 }
 
 input[type=text]:focus {
+    text-overflow: ellipsis " [..]";
     overflow-x: scroll;
     -webkit-font-smoothing: antialiased;
     transition: all .8s ease;
