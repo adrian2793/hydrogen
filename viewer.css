@@ -83,15 +83,14 @@ input[type=text] {
     margin-left: 50px;
     font-size: 16px;
     -webkit-font-smoothing: antialiased;
-    border: none;
+    border: 1px solid white;
     outline: none;
     -webkit-appearance: none;
     overflow: scroll;
     background: transparent;
     color: white;
-    padding: 10px;
     width: 500px;
-    border-radius: 12px;
+    border-radius: 20px;
     transition: all .8s ease;
 }
 
