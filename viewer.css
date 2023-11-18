@@ -78,6 +78,7 @@ div {
 }
 
 input[type=text] {
+    overflow-x: scroll;
     margin-left: 50px;
     font-size: 16px;
     -webkit-font-smoothing: antialiased;
@@ -94,6 +95,7 @@ input[type=text] {
 }
 
 input[type=text]:focus {
+    overflow-x: scroll;
     -webkit-font-smoothing: antialiased;
     transition: all .8s ease;
     border: 1px solid white;
