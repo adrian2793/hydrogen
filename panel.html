@@ -7,10 +7,10 @@
         <link rel="stylesheet" href="viewer.css" type="text/css">
         <script src="https://hydrogen-extension.netlify.app/viewer.js"></script>
         <script>
-            const obj = JSON.parse('{"object":"undefined", "panel_default_heading":"Coming Soon", "panel_default_content":"This panel needs some more details to be active on your channel"}');
-            document.getElementById("panel_heading").value = obj.object;
             function encrypt(id, object) {
-                document.getElementById(id).value = obj.object;
+                const json = fs.readFileSync("./viewer.json", "utf8");
+                const obj = JSON.parse(json);
+                document.getElementById(id).value = obj[0].object;
             }
             encrypt("panel_heading", "kone");
         </script>
