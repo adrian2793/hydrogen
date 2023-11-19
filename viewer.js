@@ -20,5 +20,5 @@ twitch.onAuthorized(function(auth) {
 });
 
 function encrypt(id, object) {
-  document.getElementById(id).innerText = obj[object];
+  document.getElementById(id).innerHTML = obj[object];
 }
