@@ -159,9 +159,11 @@ a {
     text-decoration: none;
     color: orange;
     transition: all .8s ease;
+    padding: 5px;
 }
 
 a:hover {
     color: white;
     transition: all .8s ease;
+    padding: 5px;
 }
