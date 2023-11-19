@@ -1,4 +1,4 @@
-const obj = JSON.parse('{"object":"undefined", "panel_default_heading":"Hydrogen", "panel_default_content":"Customize this panel as Streamer in the settings"}');
+const obj = JSON.parse('{"object":"undefined", "panel_default_heading":"Hydrogen", "panel_default_content":"Customize this panel as Streamer in the settings", "live_config_default_heading": "Live Settings"}');
 
 var twitch = window.Twitch.ext;
 
