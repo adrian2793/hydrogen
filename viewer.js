@@ -1,4 +1,4 @@
-const obj = JSON.parse('{"object": "null", "panel_default_heading": "Hydrogen", "panel_default_content": "Customize this panel as Streamer in the settings", "live_config_default_heading": "Live Settings", "live_config_developer_mode_toogle_label_content": "&nbsp;&nbsp;Enable Developer Mode", "live_config_analytics_toogle_label": "&nbsp;&nbsp;Enable Analytics"}');
+const obj = JSON.parse('{"object": "null", "panel_default_heading": "Hydrogen", "panel_default_content": "Customize this panel as Streamer in the settings", "live_config_default_heading": "Live Settings", "live_config_developer_mode_toogle_label_content": "&nbsp;&nbsp;Enable Developer Mode", "live_config_analytics_toogle_label_content": "&nbsp;&nbsp;Enable Analytics"}');
 
 var twitch = window.Twitch.ext;
 
