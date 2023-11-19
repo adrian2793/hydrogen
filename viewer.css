@@ -154,3 +154,14 @@ textarea:focus {
     padding: 10px;
     border-radius: 12px;
 }
+
+a {
+    text-decoration: none;
+    color: orange;
+    transition: all .8s ease;
+}
+
+a:hover {
+    color: white;
+    transition: all .8s ease;
+}
