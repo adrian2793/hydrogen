@@ -167,3 +167,8 @@ a:hover {
     transition: all .8s ease;
     padding: 5px;
 }
+
+.twitch_button {
+    padding: 10px 5px 10px 5px;
+    background-color: #9146FF;
+}
