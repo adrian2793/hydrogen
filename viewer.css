@@ -162,7 +162,7 @@ a {
     padding: 5px;
 }
 
-a:hover {
+.a:hover {
     color: white;
     transition: all .8s ease;
     padding: 5px;
