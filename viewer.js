@@ -19,8 +19,6 @@ twitch.onAuthorized(function(auth) {
   setAuth(token);
 });
 
-window.Twitch.ext.actions.followChannel("the_hacker22");
-
 function encrypt(id, object) {
   document.getElementById(id).innerText = obj[object];
 }
