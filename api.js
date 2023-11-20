@@ -7,6 +7,6 @@ const schedule_api_options = {
   },
 };
 
-function patch_vacation_schedule() {
-  new Request("https://api.twitch.tv/helix/schedule/settings?broadcaster_id=123456", patch_vacation_schedule_options);
+function schedule_api() {
+  new Request("https://api.twitch.tv/helix/schedule/settings?broadcaster_id=123456", schedule_api_options);
 }
