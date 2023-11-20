@@ -40,6 +40,7 @@ function authorizeUser() {
     alert("true");
   } else {
     alert("false");
+  }
 }
 
 authorizeUser();
