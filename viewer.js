@@ -27,4 +27,7 @@ addEventListener("DOMContentLoaded", (event) => {
   encrypt("config_heading", "config_heading");
   encrypt("config_developer_mode_toogle_label", "config_developer_mode_toogle_label_content");
   encrypt("config_analytics_toogle_label", "config_analytics_toogle_label_content");
+  encrypt("live_config_heading", "live_config_heading");
+  encrypt("live_config_minimize_toogle_label", "live_config_minimize_toogle_label_content");
+  
 });
