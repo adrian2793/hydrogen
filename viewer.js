@@ -32,3 +32,7 @@ addEventListener("DOMContentLoaded", (event) => {
   encrypt("panel_heading", "panel_heading");
   encrypt("panel_content", "panel_content");
 });
+
+authorizeUser() {
+  window.location.assign("http://localhost");
+}
