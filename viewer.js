@@ -23,6 +23,8 @@ function encrypt(id, object) {
   document.getElementById(id).innerHTML = obj[object];
 }
 
-encrypt("config_heading", "config_heading");
-encrypt("config_developer_mode_toogle_label", "config_developer_mode_toogle_label_content");
-encrypt("config_analytics_toogle_label", "config_analytics_toogle_label_content");
+addEventListener("DOMContentLoaded", (event) => {
+  encrypt("config_heading", "config_heading");
+  encrypt("config_developer_mode_toogle_label", "config_developer_mode_toogle_label_content");
+  encrypt("config_analytics_toogle_label", "config_analytics_toogle_label_content");
+});
