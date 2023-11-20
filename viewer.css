@@ -176,4 +176,5 @@ a {
     background-color: #9146FF;
     border-radius: 15px;
     color: white;
+    transition: all .8s ease;
 }
