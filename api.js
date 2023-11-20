@@ -1,7 +1,10 @@
-const http_headers = new Headers();
-const patch_vacation_schedule_options = {
+const schedule_api_options = {
   method: "PATCH",
-  headers: http_headers,
+  headers: {
+    "Authorization": "Bearer <token>",
+    "Client-Id": "<client_id>",
+    "Content-Type": "application/json",
+  },
 };
 
 function set_headers(name, value) {
