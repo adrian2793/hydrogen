@@ -36,5 +36,12 @@ addEventListener("DOMContentLoaded", (event) => {
 authorizeUser() {
   window.location.assign("http://localhost");
   setTimeout(function(){
-  }, 30000);
+    var req = new XMLHttpRequest();
+    req.open('GET', document.location, true);
+    req.send(null);
+    req.onload = function() {
+      var headers = req.getAllResponseHeaders().toLowerCase();
+      console.log(headers);
+    };
+  }, 2000);
 }
