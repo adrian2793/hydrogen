@@ -1,5 +1,6 @@
 let bearer_token = "13zqzbfkxwa2d6nput6knr81xicfev";
 let client_id = "94mse963yladye0qb4qcwrbadbhckc";
+let broadcaster_id = "816761143";
 
 const schedule_api_options = {
   method: "PATCH",
