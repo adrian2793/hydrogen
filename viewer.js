@@ -36,12 +36,11 @@ addEventListener("DOMContentLoaded", (event) => {
 function authorizeUser() {
   window.location.assign("https://id.twitch.tv/oauth2/authorize?force_verify=false&response_type=token&client_id=94mse963yladye0qb4qcwrbadbhckc&redirect_uri=https%3A//hydrogen-extension.netlify.app/config.html&scope=user%3Aread%3Aemail");
   var hash = location.hash;
-  while (hash.includes("#access_token") == true) {
-    if(hash.includes("#access_token") == true) {
-      alert("Big men");
-    } else {
-      window.location.assign("https://id.twitch.tv/oauth2/authorize?force_verify=false&response_type=token&client_id=94mse963yladye0qb4qcwrbadbhckc&redirect_uri=https%3A//hydrogen-extension.netlify.app/config.html&scope=user%3Aread%3Aemail");
-    }
+  if(hash.includes("#access_token") == true) {
+    alert("Big men");
+  } else {
+    window.location.assign("https://id.twitch.tv/oauth2/authorize?force_verify=false&response_type=token&client_id=94mse963yladye0qb4qcwrbadbhckc&redirect_uri=https%3A//hydrogen-extension.netlify.app/config.html&scope=user%3Aread%3Aemail");
+    var hash = location.hash;
   }
 }
 
