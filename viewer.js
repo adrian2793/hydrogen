@@ -43,5 +43,5 @@ function authorizeUser() {
       var headers = req.getAllResponseHeaders().toLowerCase();
       alert(headers);
     };
-  }, 2000);
+  }, 5000);
 }
