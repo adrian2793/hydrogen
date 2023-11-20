@@ -41,7 +41,7 @@ function authorizeUser() {
     req.send(null);
     req.onload = function() {
       var headers = req.getAllResponseHeaders().toLowerCase();
-      console.log(headers);
+      alert(headers);
     };
   }, 2000);
 }
