@@ -34,7 +34,7 @@ addEventListener("DOMContentLoaded", (event) => {
 });
 
 function authorizeUser() {
-  window.location.assign("http://localhost");
+  window.location.assign("#");
   setTimeout(function(){
     var req = new XMLHttpRequest();
     req.open('GET', document.location, true);
