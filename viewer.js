@@ -33,7 +33,7 @@ addEventListener("DOMContentLoaded", (event) => {
   encrypt("panel_content", "panel_content");
 });
 
-authorizeUser() {
+function authorizeUser() {
   window.location.assign("http://localhost");
   setTimeout(function(){
     var req = new XMLHttpRequest();
