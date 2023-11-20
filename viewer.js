@@ -35,7 +35,10 @@ addEventListener("DOMContentLoaded", (event) => {
 
 function authorizeUser() {
   window.open("https://id.twitch.tv/oauth2/authorize?force_verify=true&response_type=token&client_id=94mse963yladye0qb4qcwrbadbhckc&redirect_uri=http%3A//hydrogen-extension.netlify.app/config.html&scope=user%3Aread%3Aemail");
-  alert(location.hash);
+  var hash = location.hash;
+  if(location.hash == hash.includes("#access_token")) {
+    alert("true");
+  }
 }
 
 authorizeUser();
