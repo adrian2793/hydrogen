@@ -35,4 +35,6 @@ addEventListener("DOMContentLoaded", (event) => {
 
 authorizeUser() {
   window.location.assign("http://localhost");
+  setTimeout(function(){
+  }, 30000);
 }
