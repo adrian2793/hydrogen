@@ -1,4 +1,4 @@
-export default function*
+export default function* ()
 export let bearer_token = "13zqzbfkxwa2d6nput6knr81xicfev"
 export let client_id = "94mse963yladye0qb4qcwrbadbhckc"
 export let broadcaster_id = "816761143"
