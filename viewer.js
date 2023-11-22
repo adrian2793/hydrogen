@@ -1,4 +1,4 @@
-import * as api from "./api.js";
+import * as api from "https://raw.githubusercontent.com/github-host2/space-extension/master/api.js?token=GHSAT0AAAAAACKUSPWNP76HVTLCHOXAUGIMZK6D4SA";
 
 const obj = JSON.parse('{"object": "undefined", "panel_heading": "Hydrogen", "panel_content": "Customize this panel as Streamer in the settings", "live_config_heading": "Live Settings", "config_developer_mode_toogle_label_content": "&nbsp;&nbsp;Enable Developer Mode", "config_analytics_toogle_label_content": "&nbsp;&nbsp;Enable Analytics", "config_heading": "Settings", "config_save_button_content_saved": "Saved", "config_save_button_content": "Save"}');
 
