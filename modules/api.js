@@ -13,7 +13,7 @@ export const schedule_api_options = {
   },
 };
 
-export function schedule_api() {
+export default function schedule_api() {
   new Request("https://api.twitch.tv/helix/schedule/settings?broadcaster_id=" + broadcaster_id, schedule_api_options);
   alert(Request);
 }
