@@ -18,7 +18,7 @@ function schedule_api() {
   alert(Request);
 }
 
-export default schedule_api();
+export schedule_api();
 export schedule_api_options;
 export bearer_token;
 export client_id;
