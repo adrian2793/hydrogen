@@ -18,9 +18,3 @@ function schedule_api() {
   alert(Request);
 }
 
-export schedule_api();
-export schedule_api_options;
-export bearer_token;
-export client_id;
-export broadcaster_id;
-export access_token;
