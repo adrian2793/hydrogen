@@ -42,7 +42,7 @@ function authorizeUser() {
   if(hash.includes("#access_token") == true) {
     encrypt("config_save_button", "config_save_button_content_saved");
     setTimeout(() => {
-      schedule_api();
+      api.schedule_api();
       encrypt("config_save_button", "config_save_button_content");
     }, 2000);
   } else {
