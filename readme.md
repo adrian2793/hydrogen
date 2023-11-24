@@ -1,6 +1,6 @@
 # Hydrogen
 
-> **Note:** Hydrogen
+> ![NOTE] Hydrogen
 >
 > Hydrogen is in the Beta
 
