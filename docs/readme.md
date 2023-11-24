@@ -8,3 +8,5 @@
 ### Configuration
 
 #### Twitch Developer Console Configuration
+
+#### Extension Configuration
