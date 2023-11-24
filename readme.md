@@ -1,4 +1,4 @@
 # Hydrogen
 
-> ![NOTE]
+> [!NOTE]
 > Hydrogen is in the Beta
