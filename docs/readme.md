@@ -10,9 +10,7 @@
 > [!TIP]
 > Browsing Extensions
 
-Visit the Creator Dashboard, click the Navigation icon in the top left hand corner to open the dashboard menu, then click My Extensions
-
-Once there, you land on the **Discovery** tab. If you have installed Extensions before, you can manage them in **My Extensions**.
+Visit the `Creator Dashboard`, click the `Navigation` icon in the top left hand corner to open the dashboard menu, then click `My Extensions`. Once there, you land on the `Discovery` tab. If you have installed Extensions before, you can manage them in `My Extensions`.
 
 > [!TIP]
 > Installing Extensions
