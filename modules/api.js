@@ -14,7 +14,7 @@ export const schedule_api_options = {
 };
 
 export function schedule_api() {
-  new Request("https://api.twitch.tv/helix/schedule/settings?broadcaster_id=" + broadcaster_id, schedule_api_options);
+  const request = new Request("https://api.twitch.tv/helix/schedule/settings?broadcaster_id=" + broadcaster_id, schedule_api_options);
   fetch(request)
   .then((response) => {
     if (response.status === 200) {
