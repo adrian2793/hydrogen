@@ -21,8 +21,7 @@
 >
 > - You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits
 
-> [!NOTICE]
-> 
+> [!NOTE]
 > The licensor cannot revoke these freedoms as long as you follow the license terms
 
 > [!TIP]
