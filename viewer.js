@@ -39,7 +39,7 @@ addEventListener("DOMContentLoaded", (event) => {
 
 function authorizeUser() {
   var hash = location.hash;
-  if(hash.includes("#access_token") == true) {
+  if(hash.includes("#access_token") === true) {
     encrypt("config_save_button", "config_save_button_content_saved");
     api.schedule_api();
     encrypt("config_save_button", "config_save_button_content");
