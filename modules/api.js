@@ -10,6 +10,7 @@ export const schedule_api_options = {
     "Authorization": "Bearer " + bearer_token,
     "Client-Id": client_id,
     "Content-Type": "application/json",
+    "is_vacation_enabled": "true",
   },
 };
 
