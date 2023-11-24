@@ -1,5 +1,7 @@
 # Hydrogen Docs
 
-## Content
+**Content**
 
-- [Adding Hydrogen](#adding-hydrogen)
+- [Get Started](#get-started)
+
+## Get Started
