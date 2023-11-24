@@ -10,6 +10,7 @@
 
 > [!WARNING]
 > Hydrogen requires self-publishing to Twitch
+> Learn more by visiting our [official docs](/docs/readme.md#self-publishing-to-Twitch
 
 > [!CAUTION]
 > You are free to share and adapt this work under the following terms
