@@ -15,3 +15,5 @@
 
 > [!TIP]
 > Use the latest Version of Hydrogen to be up to date when new features arrive
+
+### Configure Hydrogen
