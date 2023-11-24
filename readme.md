@@ -1,7 +1,8 @@
 # Hydrogen
 
-[![pages-build-deployment](https://github.com/adrian2793/hydrogen/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/adrian2793/hydrogen/actions/workflows/pages/pages-build-deployment)
-[![Codacy Badge](https://app.codacy.com/project/badge/Grade/73240c9bfe61467ca89df8b043d56e0f)](https://app.codacy.com/gh/adrian2793/hydrogen/dashboard?utm_source=gh&utm_medium=referral&utm_content=&utm_campaign=Badge_grade)
+[![](https://github.com/adrian2793/hydrogen/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/adrian2793/hydrogen/actions/workflows/pages/pages-build-deployment)
+[![](https://app.codacy.com/project/badge/Grade/73240c9bfe61467ca89df8b043d56e0f)](https://app.codacy.com/gh/adrian2793/hydrogen/dashboard?utm_source=gh&utm_medium=referral&utm_content=&utm_campaign=Badge_grade)
+[![](https://img.shields.io/badge/Hosted_with-GitHub_Pages-blue?logo=github&logoColor=white)](https://pages.github.com)
 
 > [!WARNING]
 > Hydrogen requires self-publishing to Twitch
