@@ -4,7 +4,7 @@
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/73240c9bfe61467ca89df8b043d56e0f)](https://app.codacy.com/gh/adrian2793/hydrogen/dashboard?utm_source=gh&utm_medium=referral&utm_content=&utm_campaign=Badge_grade)
 
 > [!WARNING]
-> Hydrogen requires self-hosting
+> Hydrogen requires self-publishing to Twitch
 
 > [!CAUTION]
 > You are free to share and adapt this work under the following terms
