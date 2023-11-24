@@ -1,32 +1,32 @@
 export * from "./modules/api.js"
 import * as api from "./modules/api.js";
 
-export const obj = JSON.parse('{"object": "undefined", "panel_heading": "Hydrogen", "panel_content": "Customize this panel as Streamer in the settings", "live_config_heading": "Live Settings", "config_developer_mode_toogle_label_content": "&nbsp;&nbsp;Enable Developer Mode", "config_analytics_toogle_label_content": "&nbsp;&nbsp;Enable Analytics", "config_heading": "Settings", "config_save_button_content_saved": "Saved", "config_save_button_content": "Save"}');
+const obj = JSON.parse('{"object": "undefined", "panel_heading": "Hydrogen", "panel_content": "Customize this panel as Streamer in the settings", "live_config_heading": "Live Settings", "config_developer_mode_toogle_label_content": "&nbsp;&nbsp;Enable Developer Mode", "config_analytics_toogle_label_content": "&nbsp;&nbsp;Enable Analytics", "config_heading": "Settings", "config_save_button_content_saved": "Saved", "config_save_button_content": "Save"}');
 
-export var twitch = window.Twitch.ext;
+var twitch = window.Twitch.ext;
 
-export function setAuth(token) {
+function setAuth(token) {
   Object.keys(requests).forEach((req) => {
     twitch.rig.log('Setting auth headers');
     requests[req].headers = { 'Authorization': 'Bearer ' + token }
   });
 }
 
-export twitch.onContext(function(context) {
+twitch.onContext(function(context) {
   twitch.rig.log(context);
 });
 
-export twitch.onAuthorized(function(auth) {
+twitch.onAuthorized(function(auth) {
   token = auth.token;
   tuid = auth.userId;
   setAuth(token);
 });
 
-export function encrypt(id, object) {
+function encrypt(id, object) {
   document.getElementById(id).innerHTML = obj[object];
 }
 
-export addEventListener("DOMContentLoaded", (event) => {
+addEventListener("DOMContentLoaded", (event) => {
   encrypt("config_heading", "config_heading");
   encrypt("config_developer_mode_toogle_label", "config_developer_mode_toogle_label_content");
   encrypt("config_analytics_toogle_label", "config_analytics_toogle_label_content");
@@ -37,7 +37,7 @@ export addEventListener("DOMContentLoaded", (event) => {
   encrypt("panel_content", "panel_content");
 });
 
-export function authorizeUser() {
+function authorizeUser() {
   var hash = location.hash;
   if(hash.includes("#access_token") == true) {
     encrypt("config_save_button", "config_save_button_content_saved");
