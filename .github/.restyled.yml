@@ -1,1 +1,12 @@
-
+enabled: true
+auto: false
+commit_template: |
+  Restyled by ${restyler.name}
+pull_requests: true
+statuses:
+  skipped: true
+  differences: true
+  no_differences: true
+restylers_version: stable
+restylers:
+  - prettier
