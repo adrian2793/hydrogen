@@ -16,4 +16,20 @@ export const schedule_api_options = {
 export function schedule_api() {
   new Request("https://api.twitch.tv/helix/schedule/settings?broadcaster_id=" + broadcaster_id, schedule_api_options);
   alert(Response.status);
+  fetch(request)
+  .then((response) => {
+    if (response.status === 200) {
+      alert(response.status);
+      return response.json();
+    } else {
+      throw new Error("Something went wrong on API server!");
+    }
+  })
+  .then((response) => {
+    console.debug(response);
+    // …
+  })
+  .catch((error) => {
+    console.error(error);
+  });
 }
