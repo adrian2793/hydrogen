@@ -1,4 +1,4 @@
-export let bearer_token = "13zqzbfkxwa2d6nput6knr81xicfev";
+export let bearer_token = "cr9ysmcjl1alq8w9xks87cpurrc67u";
 export let client_id = "94mse963yladye0qb4qcwrbadbhckc";
 export let broadcaster_id = "816761143";
 export let access_token = "9efw9pr815y5yougudivi04bj8dk7p";
