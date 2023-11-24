@@ -1,4 +1,4 @@
 # Hydrogen
 
 > [!TIP]
-> Check out the official docs
+> Check out the [official docs](/docs/readme.md)
