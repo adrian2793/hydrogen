@@ -11,6 +11,9 @@ export const schedule_api_options = {
     "Client-Id": client_id,
     "Content-Type": "application/json",
     "is_vacation_enabled": "true",
+    "vacation_start_time": "2024-05-16T00:00:00Z",
+    "vacation_end_time": "2025-05-16T00:00:00Z",
+    "timezone": "America/New_York",
   },
 };
 
