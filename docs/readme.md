@@ -5,4 +5,4 @@
 ### Get Hydrogen
 
 > [!IMPORTANT]
-> Hydrogen is not available publicy as Twitch Extension
+> Hydrogen is not available as Twitch Extension yet
