@@ -1,4 +1,4 @@
 # Hydrogen
 
-> [!IMPORTANT]
+> [!INFO]
 > Test
