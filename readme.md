@@ -6,7 +6,7 @@
 ![](https://img.shields.io/badge/status-maintained-2ea44f)
 ![](https://img.shields.io/badge/version-_0.2.7-2ea44f)
 
-![](https://img.shields.io/badge/View-Documentation-important)
+[![](https://img.shields.io/badge/View-Documentation-important)](/docs/)
 
 > [!WARNING]
 > Hydrogen requires self-publishing to Twitch
