@@ -6,6 +6,10 @@
 ![](https://img.shields.io/badge/status-maintained-success)
 ![](https://img.shields.io/badge/version-_0.2.7-success)
 
+[![](https://img.shields.io/github/stars/adrian2793/hydrogen?style=social)](https://github.com/adrian2793/hydrogen)
+
+[![](https://img.shields.io/github/forks/adrian2793/hydrogen?style=social)](https://github.com/adrian2793/hydrogen)
+
 [![](https://img.shields.io/badge/View-Documentation-important)](/docs/)
 
 > [!WARNING]
