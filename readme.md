@@ -1,7 +1,5 @@
 # Hydrogen
-
 [![pages-build-deployment](https://github.com/adrian2793/hydrogen/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/adrian2793/hydrogen/actions/workflows/pages/pages-build-deployment)
-
 > [!CAUTION]
 > You are free to share and adapt this work under the following terms
 > 
