@@ -30,7 +30,7 @@
 >
 > You cannot choose a name which is already in use
 
-4. Follow the instructions
+4. Create a `Video Overlay` and `Panel` Extension version
 
 #### Extension Configuration
 
