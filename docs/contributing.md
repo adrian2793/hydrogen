@@ -11,6 +11,7 @@
 - [Issues and Pull Requests](#issues-and-pull-requests)
   - [Content](#content)
     - [Badges](#badges)
+    - [Labels](#labels)
 
 ## Issues and Pull Requests
 
