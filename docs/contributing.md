@@ -58,4 +58,4 @@ For labels with multiple words and spaces
 
 These labels can be added by authorized contributors only
 
-For not authorized contributors it's forbidden to add these labels to their issue
+For not authorized contributors it's forbidden to add these labels to their issues
