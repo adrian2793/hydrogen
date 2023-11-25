@@ -30,7 +30,7 @@
 
 1. Visit the [Twitch Developer Console](https://dev.twitch.tv/console)
 2. Switch to the `Extensions` Tab
-3. Tap on `Add` and fill out the required fields
+3. Tap on `Create Extension` and fill out the required fields
 
 > [!WARNING]
 > Each Twitch Extension or Application name is unique
