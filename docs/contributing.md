@@ -12,4 +12,4 @@ Append the following code to your issue to ensure everyone have the option to co
 
 ### Reserved labels
 
-[![](https://img.shields.io/badge/-additional-help-required-008672.svg)]()
+[![](https://img.shields.io/badge/-additional%20help%20required-008672.svg)]()
