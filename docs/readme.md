@@ -9,7 +9,7 @@
 ## Content
 
 - [Get Started](#get-started)
-    - [Configuration](#configuration)
+  - [Configuration](#configuration)
 
 ## Get Started
 
