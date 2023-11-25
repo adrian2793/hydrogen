@@ -16,4 +16,4 @@ Append the following code to your issue to ensure everyone have the option to co
 
 [![](https://img.shields.io/badge/-further%20information%20requested-00E5A0.svg)]()
 
-[![](https://img.shields.io/badge/-In%20Progress-093E86.svg)]()
+[![](https://img.shields.io/badge/-in%20progress-093E86.svg)]()
