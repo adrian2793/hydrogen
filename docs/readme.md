@@ -26,3 +26,5 @@
 #### Extension Configuration
 
 1. Visit your [Twitch Creator Dashboard]()
+2. Tap on `Extensions`
+3. Switch to the `Invite Only` Tab
