@@ -22,6 +22,8 @@
 > Run a NodeJS Server to send and receive messages with the Hydrogen ChatBot
 
 1. Visit the [Twitch Developer Console](https://dev.twitch.tv/console)
+2. Switch to the `Extensions` Tab
+3. Tap on `Add` to add an Application
 
 #### Extension Configuration
 
