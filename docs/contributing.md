@@ -17,7 +17,13 @@ Append the following code to your issue to ensure everyone have the option to co
 You can embed labels by using the following code
 
 ```
-[![](https://img.shields.io/badge/-text-008672.svg)]()
+[![](https://img.shields.io/badge/-text-color.svg)]()
+```
+
+For labels with multiple words and spaces
+
+```
+[![](https://img.shields.io/badge/-this%20is%20a%20text%20with%20multiple%20words-color.svg)]()
 ```
 
 **Example**
