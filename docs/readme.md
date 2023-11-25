@@ -18,6 +18,6 @@
 > [!CAUTION]
 > After forking this repository please change it's visibility to private to ensure that your secrets stay secret
 
-1. Visit the [Twitch Developer Console]()
+1. Visit the [Twitch Developer Console](https://dev.twitch.tv/console)
 
 #### Extension Configuration
