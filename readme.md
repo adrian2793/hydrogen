@@ -5,6 +5,7 @@
 [![](https://img.shields.io/badge/Hosted_with-GitHub_Pages-blue?logo=github&logoColor=white)](https://pages.github.com)
 ![](https://img.shields.io/badge/status-maintained-success)
 ![](https://img.shields.io/badge/version-_0.2.7-success)
+[![](https://img.shields.io/static/v1?label=adrian2793&message=hydrogen&color=blue&logo=github)](https://github.com/adrian2793/hydrogen)
 
 [![](https://img.shields.io/github/stars/adrian2793/hydrogen?style=social)](https://github.com/adrian2793/hydrogen)
 
