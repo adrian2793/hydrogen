@@ -12,6 +12,10 @@ Append the following code to your issue to ensure everyone have the option to co
 [![](https://img.shields.io/badge/Contribute-Support_us-2ea44f?style=for-the-badge)](https://github.com/adrian2793/hydrogen/blob/master/docs/contributing.md)
 ```
 
+**Result**
+
+[![](https://img.shields.io/badge/Contribute-Support_us-2ea44f?style=for-the-badge)](https://github.com/adrian2793/hydrogen/blob/master/docs/contributing.md)
+
 #### Labels
 
 You can embed labels by using the following code
