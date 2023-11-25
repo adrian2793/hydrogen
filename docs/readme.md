@@ -18,6 +18,9 @@
 > [!CAUTION]
 > After forking this repository please change it's visibility to private to ensure that your secrets stay secret
 
+> [!TIP]
+> Run a **NodeJS** Server to send and receive messages with the Hydrogen ChatBot
+
 1. Visit the [Twitch Developer Console](https://dev.twitch.tv/console)
 
 #### Extension Configuration
