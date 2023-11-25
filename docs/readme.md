@@ -11,6 +11,7 @@
 - [Get Started](#get-started)
   - [Configuration](#configuration)
     - [Twitch Developer Console Configuration](#twitch-developer-console-configuration)
+    - [Extension Configuration](#extension-configuration)
 
 ## Get Started
 
