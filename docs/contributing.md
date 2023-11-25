@@ -17,10 +17,14 @@ Append the following code to your issue to ensure everyone have the option to co
 You can embed labels by using the following code
 
 ```
-[![](https://img.shields.io/badge/-additional%20help%20required-008672.svg)]()
+[![](https://img.shields.io/badge/-text-008672.svg)]()
 ```
 
-**Result**
+**Example**
+
+```
+[![](https://img.shields.io/badge/-additional%20help%20required-008672.svg)]()
+```
 
 [![](https://img.shields.io/badge/-additional%20help%20required-008672.svg)]()
 
