@@ -20,19 +20,21 @@ You can embed labels by using the following code
 [![](https://img.shields.io/badge/-text-color.svg)]()
 ```
 
-For labels with multiple words and spaces
-
-```
-[![](https://img.shields.io/badge/-this%20is%20a%20text%20with%20multiple%20words-color.svg)]()
-```
-
 **Example**
 
 ```
 [![](https://img.shields.io/badge/-additional%20help%20required-008672.svg)]()
 ```
 
-[![](https://img.shields.io/badge/-additional%20help%20required-008672.svg)]()
+**Result**
+
+[![](https://img.shields.io/badge/-text-color.svg)]()
+
+For labels with multiple words and spaces
+
+```
+[![](https://img.shields.io/badge/-this%20is%20a%20text%20with%20multiple%20words-color.svg)]()
+```
 
 ### Reserved labels
 
