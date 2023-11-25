@@ -2,6 +2,8 @@
 
 [![](https://img.shields.io/static/v1?label=adrian2793&message=hydrogen&color=blue&logo=github)](https://github.com/adrian2793/hydrogen)
 
+[![](https://img.shields.io/github/release/adrian2793/hydrogen?include_prereleases=&sort=semver&color=blue)](https://github.com/adrian2793/hydrogen) 
+
 ## Get Started
 
 > [!TIP]
