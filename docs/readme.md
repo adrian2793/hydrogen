@@ -21,3 +21,5 @@
 1. Visit the [Twitch Developer Console](https://dev.twitch.tv/console)
 
 #### Extension Configuration
+
+1. Visit your [Twitch Creator Dashboard]()
