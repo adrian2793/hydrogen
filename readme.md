@@ -14,11 +14,11 @@
 
 [![](https://img.shields.io/github/forks/adrian2793/hydrogen?style=social)](https://github.com/adrian2793/hydrogen)
 
-[![](https://img.shields.io/badge/View-Documentation-important)](/docs/)
+[![](https://img.shields.io/badge/View-Documentation-important)](/docs/readme.md)
 
 > [!WARNING]
 > Hydrogen requires self-publishing to Twitch
-> Learn more by visiting our [official docs](/docs#twitch-developer-console-configuration)
+> Learn more by visiting our [official docs](/docs/readme.md#twitch-developer-console-configuration)
 
 > [!CAUTION]
 > You are free to share and adapt this work under the following terms
