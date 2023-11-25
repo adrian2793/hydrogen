@@ -11,3 +11,5 @@ Append the following code to your issue to ensure everyone have the option to co
 ```
 
 ### Reserved labels
+
+[![](https://img.shields.io/badge/-comments-006b75.svg)]()
