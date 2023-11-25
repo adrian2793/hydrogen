@@ -56,6 +56,6 @@ For labels with multiple words and spaces
 
 [![](https://img.shields.io/badge/-todo-EECDD1.svg)]()
 
-These labels can be added by authorized contributers only
+These labels can be added by authorized contributors only
 
-For Not authorized contributors it's forbidden to add these labels to their issue
+For not authorized contributors it's forbidden to add these labels to their issue
