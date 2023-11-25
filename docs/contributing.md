@@ -1,5 +1,7 @@
 # Contributing
 
+## Content
+
 ## Issues
 
 ### Content
