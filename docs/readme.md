@@ -15,4 +15,7 @@
 
 #### Twitch Developer Console Configuration
 
+> [!CAUTION]
+> After forking this repository please change it's visibility to private to ensure your secrets stay secret
+
 #### Extension Configuration
