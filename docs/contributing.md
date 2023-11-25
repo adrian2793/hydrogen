@@ -18,4 +18,4 @@ Append the following code to your issue to ensure everyone have the option to co
 
 [![](https://img.shields.io/badge/-in%20progress-093E86.svg)]()
 
-[![](https://img.shields.io/badge/-in%20progress-EECDD1.svg)]()
+[![](https://img.shields.io/badge/-todo-EECDD1.svg)]()
