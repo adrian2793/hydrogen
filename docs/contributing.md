@@ -36,6 +36,16 @@ For labels with multiple words and spaces
 [![](https://img.shields.io/badge/-this%20is%20a%20text%20with%20multiple%20words-color.svg)]()
 ```
 
+**Example**
+
+```
+[![](https://img.shields.io/badge/-in%20progress-093E86.svg)]()
+```
+
+**Result**
+
+[![](https://img.shields.io/badge/-in%20progress-093E86.svg)]()
+
 ### Reserved labels
 
 [![](https://img.shields.io/badge/-additional%20help%20required-008672.svg)]()
