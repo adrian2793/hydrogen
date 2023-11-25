@@ -10,6 +10,7 @@
 
 - [Issues and Pull Requests](#issues-and-pull-requests)
   - [Content](#content)
+    - [Badges](#badges)
 
 ## Issues and Pull Requests
 
