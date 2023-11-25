@@ -12,6 +12,7 @@
   - [Content](#content)
     - [Badges](#badges)
     - [Labels](#labels)
+    - [Reserved Labels](#reserved-labels)
 
 ## Issues and Pull Requests
 
