@@ -6,13 +6,6 @@
 
 [![](https://img.shields.io/github/issues/adrian2793/hydrogen)](https://github.com/adrian2793/hydrogen/issues)
 
-## Content
-
-- [Get Started](#get-started)
-  - [Configuration](#configuration)
-    - [Twitch Developer Console Configuration](#twitch-developer-console-configuration)
-    - [Extension Configuration](#extension-configuration)
-
 ## Get Started
 
 > [!TIP]
