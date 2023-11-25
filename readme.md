@@ -4,7 +4,6 @@
 [![](https://app.codacy.com/project/badge/Grade/73240c9bfe61467ca89df8b043d56e0f)](https://app.codacy.com/gh/adrian2793/hydrogen/dashboard?utm_source=gh&utm_medium=referral&utm_content=&utm_campaign=Badge_grade)
 [![](https://img.shields.io/badge/Hosted_with-GitHub_Pages-blue?logo=github&logoColor=white)](https://pages.github.com)
 ![](https://img.shields.io/badge/status-maintained-success)
-![](https://img.shields.io/badge/version-_0.2.7-success)
 [![](https://img.shields.io/static/v1?label=adrian2793&message=hydrogen&color=blue&logo=github)](https://github.com/adrian2793/hydrogen)
 
 [![](https://img.shields.io/github/stars/adrian2793/hydrogen?style=social)](https://github.com/adrian2793/hydrogen)
