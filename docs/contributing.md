@@ -6,14 +6,6 @@
 
 [![](https://img.shields.io/github/issues/adrian2793/hydrogen)](https://github.com/adrian2793/hydrogen/issues)
 
-## Content
-
-- [Issues and Pull Requests](#issues-and-pull-requests)
-  - [Content](#content)
-    - [Badges](#badges)
-    - [Labels](#labels)
-    - [Reserved Labels](#reserved-labels)
-
 ## Issues and Pull Requests
 
 ### Content
