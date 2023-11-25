@@ -8,7 +8,10 @@
 
 ## Content
 
-## Issues
+- [Issues and Pull Requests](#issues-and-pull-requests)
+  - [Content](#content)
+
+## Issues and Pull Requests
 
 ### Content
 
