@@ -18,6 +18,7 @@
 
 > [!WARNING]
 > Hydrogen requires self-publishing to Twitch
+>
 > Learn more by visiting our [official docs](/docs/readme.md#twitch-developer-console-configuration)
 
 > [!CAUTION]
