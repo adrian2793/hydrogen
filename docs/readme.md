@@ -23,12 +23,14 @@
 
 1. Visit the [Twitch Developer Console](https://dev.twitch.tv/console)
 2. Switch to the `Extensions` Tab
-3. Tap on `Add` and enter the required details
+3. Tap on `Add` and fill out the required fields
 
 > [!WARNING]
 > Each Twitch Extension or Application name is unique
 >
 > You cannot choose a name which is already in use
+
+4. Follow the instructions
 
 #### Extension Configuration
 
