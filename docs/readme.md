@@ -28,3 +28,4 @@
 1. Visit your [Twitch Creator Dashboard]()
 2. Tap on `Extensions`
 3. Switch to the `Invite Only` Tab
+4. Tap `Install` or `Add` on the version you want to use in your channel
