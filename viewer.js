@@ -41,9 +41,10 @@ function authorizeUser() {
   var hash = location.hash;
   if(hash.includes("#access_token") === true) {
     encrypt("config_save_button", "config_save_button_content_saved");
+    api.schedule();
     encrypt("config_save_button", "config_save_button_content");
   } else {
-    window.location.assign("https://id.twitch.tv/oauth2/authorize?force_verify=false&response_type=token&client_id=94mse963yladye0qb4qcwrbadbhckc&redirect_uri=https%3A//adrian2793.github.io/hydrogen/live_config.html&scope=user%3Aread%3Aemail%20channel%3Amanage%3Aschedule");
+    window.location.assign("https://id.twitch.tv/oauth2/authorize?force_verify=false&response_type=token&client_id=xi3wenjaxnataoyim025umd3pnffz0&redirect_uri=https%3A//adrian2793.github.io/hydrogen/live_config.html&scope=user%3Aread%3Aemail%20channel%3Amanage%3Aschedule");
     var hash = location.hash;
   }
 }
