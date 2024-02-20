@@ -1,8 +1,6 @@
 export * from "./modules/api.js"
 import * as api from "./modules/api.js";
 
-const obj = JSON.parse('{"object": "undefined", "panel_heading": "Hydrogen", "panel_content": "Customize this panel as Streamer in the settings", "live_config_heading": "Live Settings", "config_developer_mode_toogle_label_content": "&nbsp;&nbsp;Enable Developer Mode", "config_analytics_toogle_label_content": "&nbsp;&nbsp;Enable Analytics", "config_heading": "Settings", "config_save_button_content_saved": "Saved", "config_save_button_content": "Save", "live_config_minimize_toogle_label_content": "Minimize"}');
-
 var twitch = window.Twitch.ext;
 
 function setAuth(token) {
@@ -27,12 +25,14 @@ function encrypt(id, object) {
 }
 
 addEventListener("DOMContentLoaded", (event) => {
-  encrypt("config_heading", "f");
-  encrypt("config_developer_mode_toogle_label", "config_developer_mode_toogle_label_content");
-  encrypt("config_analytics_toogle_label", "config_analytics_toogle_label_content");
+  encrypt("config_heading", "Settings");
+  encrypt("config_developer_mode_toogle_label", "Developer Mode");
+  encrypt("config_analytics_toogle_label", "Improve Hydrogen by sharing non person related usage analytics");
   encrypt("config_save_button", "config_save_button_content");
+  
   encrypt("live_config_heading", "live_config_heading");
   encrypt("live_config_minimize_toogle_label", "live_config_minimize_toogle_label_content");
+  
   encrypt("panel_heading", "Hydrogen");
   encrypt("panel_content", "Customize this panel as Streamer in the settings");
 });
