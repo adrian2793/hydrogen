@@ -23,18 +23,18 @@ twitch.onAuthorized(function(auth) {
 });
 
 function encrypt(id, object) {
-  document.getElementById(id).text = obj[object];
+  document.getElementById(id).innerHTML = object;
 }
 
 addEventListener("DOMContentLoaded", (event) => {
-  encrypt("config_heading", "config_heading");
+  encrypt("config_heading", "f");
   encrypt("config_developer_mode_toogle_label", "config_developer_mode_toogle_label_content");
   encrypt("config_analytics_toogle_label", "config_analytics_toogle_label_content");
   encrypt("config_save_button", "config_save_button_content");
   encrypt("live_config_heading", "live_config_heading");
   encrypt("live_config_minimize_toogle_label", "live_config_minimize_toogle_label_content");
-  encrypt("panel_heading", "panel_heading");
-  encrypt("panel_content", "panel_content");
+  encrypt("panel_heading", "Hydrogen");
+  encrypt("panel_content", "Customize this panel as Streamer in the settings");
 });
 
 function authorizeUser() {
