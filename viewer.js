@@ -26,7 +26,7 @@ function encrypt(id, object) {
   document.getElementById(id).innerHTML = obj[object];
 }
 
-addEventListener("DOMContentLoaded", (event) => {
+window.addEventListener("load", (event) => {
   encrypt("object", "object");
   encrypt("config_heading", "config_heading");
   encrypt("config_developer_mode_toogle_label", "config_developer_mode_toogle_label_content");
