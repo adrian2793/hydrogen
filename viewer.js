@@ -26,12 +26,12 @@ function encrypt(id, object) {
 
 addEventListener("DOMContentLoaded", (event) => {
   encrypt("config_heading", "Settings");
-  encrypt("config_developer_mode_toogle_label", " Developer Mode");
+  encrypt("config_developer_mode_toogle_label", "Developer Mode");
   encrypt("config_analytics_toogle_label", " Improve Hydrogen by sharing non person related usage analytics");
-  encrypt("config_save_button", "config_save_button_content");
+  encrypt("config_save_button", "Save");
   
-  encrypt("live_config_heading", "live_config_heading");
-  encrypt("live_config_minimize_toogle_label", "live_config_minimize_toogle_label_content");
+  encrypt("live_config_heading", "Live Settings");
+  encrypt("live_config_minimize_toogle_label", "Minimize Video Overlay");
   
   encrypt("panel_heading", "Hydrogen");
   encrypt("panel_content", "Customize this panel as Streamer in the settings");
