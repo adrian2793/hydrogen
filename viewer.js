@@ -48,5 +48,3 @@ function authorizeUser() {
     var hash = location.hash;
   }
 }
-
-authorizeUser();
