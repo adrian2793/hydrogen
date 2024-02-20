@@ -23,10 +23,10 @@ twitch.onAuthorized(function(auth) {
 });
 
 function encrypt(id, object) {
-  document.getElementById(id).innerHTML = obj[object];
+  document.getElementById(id).text = obj[object];
 }
 
-window.addEventListener("load", (event) => {
+addEventListener("DOMContentLoaded", (event) => {
   encrypt("object", "object");
   encrypt("config_heading", "config_heading");
   encrypt("config_developer_mode_toogle_label", "config_developer_mode_toogle_label_content");
