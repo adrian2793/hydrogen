@@ -26,8 +26,8 @@ function encrypt(id, object) {
 
 addEventListener("DOMContentLoaded", (event) => {
   encrypt("config_heading", "Settings");
-  encrypt("config_developer_mode_toogle_label", "Developer Mode");
-  encrypt("config_analytics_toogle_label", "Improve Hydrogen by sharing non person related usage analytics");
+  encrypt("config_developer_mode_toogle_label", " Developer Mode");
+  encrypt("config_analytics_toogle_label", " Improve Hydrogen by sharing non person related usage analytics");
   encrypt("config_save_button", "config_save_button_content");
   
   encrypt("live_config_heading", "live_config_heading");
